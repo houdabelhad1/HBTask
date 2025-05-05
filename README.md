@@ -73,7 +73,7 @@ Les contributions sont les bienvenues !
 5. Ouvrez une Pull Request  
 
 ## Licence 📄
-MIT License - Voir le fichier [LICENSE](LICENSE) (à créer si besoin)
+MIT License - Voir le fichier [LICENSE](LICENSE) 
 
 ---
 
