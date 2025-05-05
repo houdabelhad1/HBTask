@@ -77,20 +77,3 @@ MIT License - Voir le fichier [LICENSE](LICENSE)
 
 ---
 
-✨ **Tips** :  
-- Personnalise ce README avec des captures d'écran si tu as une interface.  
-- Ajoute un badge CI/CD (ex: GitHub Actions) si tu as des tests automatisés.  
-```
-
-### Comment l'ajouter à ton projet :
-1. Crée un fichier `README.md` à la racine du projet :
-   ```bash
-   touch README.md
-   ```
-2. Copie-colle le contenu ci-dessus et adapte-le.
-3. Commit et push :
-   ```bash
-   git add README.md
-   git commit -m "Add README file"
-   git push origin main
-   ```
