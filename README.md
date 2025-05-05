@@ -1,6 +1,4 @@
-Voici un exemple de fichier `README.md` pour ton projet **HBTask** (que tu peux personnaliser) :
 
-```markdown
 # HBTask 📝
 
 Une application de gestion de tâches (Todo List) développée avec Spring Boot et React.
