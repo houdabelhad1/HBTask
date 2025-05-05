@@ -13,7 +13,7 @@ Une application de gestion de tâches (Todo List) développée avec Spring Boot 
 ## Technologies 🛠️
 - **Backend** : 
   - Java 21
-  - Spring Boot 3.x
+  - Spring Boot 
   - Spring Data JPA
   - H2 Database (en développement)
   - ModelMapper (pour le mapping DTO <-> Entity)
