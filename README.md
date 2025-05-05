@@ -18,7 +18,11 @@ Une application de gestion de tâches (Todo List) développée avec Spring Boot 
   - H2 Database (en développement)
   - ModelMapper (pour le mapping DTO <-> Entity)
   - Lombok (pour réduire le code boilerplate)
-
+- **Frontend** : 
+  - Next.Js
+  - Material-UI 
+  - Tailwind CSS
+  
 ## Prérequis 📋
 - JDK 21
 - Maven 3.9+
